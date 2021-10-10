@@ -8,7 +8,6 @@
 
 - 🎓 Portfolio https://www.haritummala.com/
 - 🎨 Blog https://nameishari.medium.com/
-- 🔗 Connect with me on <a href="https://www.linkedin.com/in/nameishari/">Linkedin</a>
 
 ## 🔧 Technologies
 
