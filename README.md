@@ -1,4 +1,4 @@
-a Full Stack Enginner.
+a Full Stack Engineer.
 
 - 🎓 Portfolio https://www.haritummala.com/
 - 🎨 Blog https://nameishari.medium.com/
