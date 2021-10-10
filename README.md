@@ -13,6 +13,9 @@
 
 ## 🚀 Some Tools / Technologies I Use
 <p align="left">
+   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" />
@@ -21,15 +24,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="50" height="50" />
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant-design" width="50" height="50">
-</p>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="Elastic Search"/>
-</p>
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="K8s"/>
