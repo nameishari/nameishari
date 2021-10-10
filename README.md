@@ -9,7 +9,7 @@
 
 - 🎓 Portfolio https://www.haritummala.com/
 - 🎨 Blog https://nameishari.medium.com/
-- 🏗 Focus on Backend and Web developement.
+- 🏗 Currently focusing on **backend** and **web** developement.
 
 ## 🚀 Some Tools / Technologies I Use
 <p align="left">
