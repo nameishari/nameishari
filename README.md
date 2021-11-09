@@ -9,6 +9,7 @@
 
 - 🎓 Portfolio https://www.haritummala.com/
 - 🎨 Blog https://nameishari.medium.com/
+- 🔖 Quora https://www.quora.com/profile/Hari-Tummala-3
 - 🏗 Currently focusing on **backend** and **web** developement.
 
 ## 🚀 Some Tools / Technologies I Use
