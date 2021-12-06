@@ -3,6 +3,8 @@
 <p><em>Senior Full-Stack Engineer</em> at <a href="https://www.element.in/">ELEMENT Insurance AG</a>
 <p><em>ex-Software Engineer</em> at <a href="https://www.friday.de">FRIDAY Insurance S.A.</a> | <a href="https://www.auto1.com">AUTO1 Group</a> | <a href="https://www.verizon.com">Verizon</a> | <a href="https://www.cognizant.com">Cognizant</a>
 </p>
+<p>Currently based in <em>Berlin, Germany</em>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-nameishari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/nameishari/) [![Medium Badge](https://img.shields.io/badge/-@nameishari-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://nameishari.medium.com)
 [![Gmail Badge](https://img.shields.io/badge/-hari.tummala88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hari.tummala88@gmail.com)](mailto:hari.tummala88@gmail.com)
