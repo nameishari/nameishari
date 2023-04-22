@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-nameishari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/nameishari/) [![Medium Badge](https://img.shields.io/badge/-@nameishari-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://nameishari.medium.com)
 [![Gmail Badge](https://img.shields.io/badge/-hari.tummala88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hari.tummala88@gmail.com)](mailto:hari.tummala88@gmail.com)
 
-- 🎓 Portfolio https://www.haritummala.com/
+- 🎓 Portfolio https://nameishari.github.io/
 - 🎨 Blog https://nameishari.medium.com/
 - 🔖 Quora https://www.quora.com/profile/Hari-Tummala-3
 - 🏗 Currently focusing on **backend** and **web** developement.
