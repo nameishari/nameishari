@@ -1,7 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Hari Tummala! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-<p><em>Senior Full-Stack Engineer</em> at <a href="https://www.element.in/">ELEMENT Insurance AG</a>
-<p><em>ex-Software Engineer</em> at <a href="https://www.friday.de">FRIDAY Insurance S.A.</a> | <a href="https://www.auto1.com">AUTO1 Group</a> | <a href="https://www.verizon.com">Verizon</a> | <a href="https://www.cognizant.com">Cognizant</a>
+<p><em>Senior Software Developer (Backend)</em> at <a href="https://www.dkbcodefactory.com/">DKB Code Factory GmbH</a>
+<p><em>ex-Software Engineer</em> at <a href="https://www.element.in/">ELEMENT Insurance AG</a> | <a href="https://www.friday.de">FRIDAY Insurance S.A.</a> | <a href="https://www.auto1.com">AUTO1 Group</a> | <a href="https://www.verizon.com">Verizon</a> | <a href="https://www.cognizant.com">Cognizant</a>
 </p>
 <p>Currently based in <em>Berlin, Germany</em>
 </p>
